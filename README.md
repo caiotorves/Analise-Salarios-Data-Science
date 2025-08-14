@@ -9,7 +9,7 @@ Um dashboard interativo construído com Streamlit para explorar e analisar salá
 
 Abaixo, uma prévia da aplicação em funcionamento. Utilize os filtros na barra lateral para segmentar os dados!
 
-![Demonstração do Dashboard](https://i.imgur.com/R3xZcZn.png)
+![Demonstração do Dashboard](https://github.com/user-attachments/assets/7c383720-195d-4c8b-8e65-07e8ff1cbeeb)
 
 ## 🚀 Funcionalidades
 
@@ -47,3 +47,7 @@ Para executar este projeto em sua máquina, siga os passos:
     ```bash
     streamlit run app.py
     ```
+
+## 🔗 Contato
+
+- **LinkedIn:** [https://www.linkedin.com/in/caiotorves/](https://www.linkedin.com/in/caiotorves/)
